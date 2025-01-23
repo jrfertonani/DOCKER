@@ -16,6 +16,7 @@ Este projeto utiliza Docker para facilitar sua execução.
 
 3. Acesse a aplicação em:
 http://localhost:8080
+http://localhost:4200
 
-4. Para parar o projeto, use:
+5. Para parar o projeto, use:
 - docker-compose down
