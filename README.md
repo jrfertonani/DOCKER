@@ -9,7 +9,8 @@ Este projeto utiliza Docker para facilitar sua execução.
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/seu-repo.git](https://github.com/jrfertonani/DOCKER.git)
-   cd DOCKER
+
+ cd DOCKER
 
 2.Construa e inicie o projeto:
 - docker-compose up --build
