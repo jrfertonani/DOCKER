@@ -12,8 +12,8 @@ Este projeto utiliza Docker para facilitar sua execução.
 
  cd DOCKER
 
-2.Construa e inicie o projeto:
-- docker-compose up --build
+ 2.Construa e inicie o projeto:
+ - docker-compose up --build
 
 3. Acesse a aplicação em:
 http://localhost:8080
